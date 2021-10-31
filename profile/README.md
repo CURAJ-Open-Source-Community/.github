@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?color=%23B15B4E&size=50&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%A7%9F%F0%9F%8E%83%F0%9F%95%B7%EF%B8%8F+Happy+Halloween+%F0%9F%95%B8%EF%B8%8F%F0%9F%8E%83%F0%9F%A7%9B">
+
 ![Banner_CURAJOSC](https://user-images.githubusercontent.com/72812470/134761463-ddaa4602-ab27-4db7-a8d6-33996cdf9ee6.png)
 <p align="center">
 <a href= "https://github.com/CURAJ-Open-Source-Community/.github/edit/main/profile/README.md" alt = "Stars">
